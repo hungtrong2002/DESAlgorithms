@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\bin\Debug\DESAlgrorithms.exe.config
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\bin\Debug\DESAlgrorithms.exe
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\bin\Debug\DESAlgrorithms.pdb
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.Form1.resources
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.Properties.Resources.resources
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.exe
+C:\Users\Acer\source\repos\DESAlgrorithms\DESAlgrorithms\obj\Debug\DESAlgrorithms.pdb
